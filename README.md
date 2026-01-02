@@ -68,21 +68,6 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 ---
 
-## 🎯 Professional Experience Highlights
-
-**Security Operations Analyst**
-- Monitored **2,000+ daily security events** using Sentinel & Splunk  
-- Performed incident triage and escalation to senior analysts  
-- Conducted endpoint, firewall, and network log analysis  
-- Improved compliance and security posture by **15%**
-
-**Technical Support / IAM & Security**
-- Implemented MFA, reducing unauthorized access risk by **40%**
-- Provisioned and de-provisioned user access following least privilege
-- Supported access reviews and identity security initiatives
-
----
-
 ## 🎓 Certifications & Training
 
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
