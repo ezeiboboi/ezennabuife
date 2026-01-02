@@ -96,7 +96,6 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 - 🧠 **Microsoft Certified: Security Operations Analyst Associate (SC-200)**  
 - 🛡️ **CompTIA Security+**  
 - ☁️ **Microsoft Azure Security Engineer Associate** *(in progress)*  
-- 🎓 Google Cybersecurity Professional Certificate  
 
 ---
 
