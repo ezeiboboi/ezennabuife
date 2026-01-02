@@ -23,16 +23,12 @@ I bring a unique blend of **engineering, IT infrastructure, and security operati
 
 ### 🖥️ Security & Monitoring
 - Microsoft Sentinel (SIEM), Microsoft Defender (Endpoint, Identity, Office 365, Cloud Apps, Purview), Splunk
-
 ### 🌐 Network, Endpoint & DFIR
 - Wireshark, Windows Event Viewer (4624, 4625, 4688), VPNs, Firewalls, DNS, DHCP
-
 ### ☁️ Cloud & Identity (Azure)
 - RBAC & Least Privilege, MFA Enforcement, Identity & Access Reviews, Windows Server 2016–2022
-
 ### 🧪 Scripting & Data
 - Python, SQL, PowerShell, KQL
-
 ### 📜 Frameworks & Compliance
 - NIST, SOC 2, PCI DSS, HIPAA, GDPR, CCPA
 
